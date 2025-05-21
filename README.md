@@ -65,45 +65,45 @@ The specific objectives are to:
 ## Methodology
 The study was conducted using a questionnaire to collect primary data from 101 women police personnel in the Tiruvannamalai district, identified through random sampling methods. The collected data was classified using MS Excel and analyzed with statistical software like SPSS, Minitab, MS Excel, and R Programming. The statistical analyses carried out include:
 
-*Descriptive Statistics 
-*Chi-Square analysis 
-*Mann-Whitney U test 
-*Kruskal-Wallis test 
-*Multiple Regression 
-*Logistic regression 
-*Naive Bayes classifier 
-*Ada boost analysis 
+* Descriptive Statistics 
+* Chi-Square analysis 
+* Mann-Whitney U test 
+* Kruskal-Wallis test 
+* Multiple Regression 
+* Logistic regression 
+* Naive Bayes classifier 
+* Ada boost analysis 
 
 
 ## Key Findings (Summary)
 The analysis revealed:
 
-*Demographics: The majority of women police in Tiruvannamalai district are between 26 and 35 years old (48%).
+* Demographics: The majority of women police in Tiruvannamalai district are between 26 and 35 years old (48%).
 
-*Emotional Support: Most respondents agreed there is a strong system of emotional support from colleagues and supervisors (average score 2.206 on a scale where 'Agree' is preferred).
+* Emotional Support: Most respondents agreed there is a strong system of emotional support from colleagues and supervisors (average score 2.206 on a scale where 'Agree' is preferred).
 
-*Personal Safety: Most respondents felt their personal safety concerns were adequately addressed and prioritized by the department (average score 2.086).
+* Personal Safety: Most respondents felt their personal safety concerns were adequately addressed and prioritized by the department (average score 2.086).
 
-*Friendship and Mutual Support: A majority were neutral regarding a strong sense of friendship and mutual support among women in the police force (average score 2.466).
+* Friendship and Mutual Support: A majority were neutral regarding a strong sense of friendship and mutual support among women in the police force (average score 2.466).
 
-*Professional Growth Opportunities: Most agreed that opportunities for professional growth and advancement are equally accessible to both men and women (average score 2.593).
+* Professional Growth Opportunities: Most agreed that opportunities for professional growth and advancement are equally accessible to both men and women (average score 2.593).
 
-*Workload Management: Respondents indicated that the workload is generally balanced and manageable for a healthy work-life integration (average score 2.02).
+* Workload Management: Respondents indicated that the workload is generally balanced and manageable for a healthy work-life integration (average score 2.02).
 
 ## Statistical Relationships:
-*No significant statistical association was found between marital status and job satisfaction.
+* No significant statistical association was found between marital status and job satisfaction.
 
-*A strong statistical relationship was identified between the nature of police rank and the utilization of women police talent.
+* A strong statistical relationship was identified between the nature of police rank and the utilization of women police talent.
 
-*No statistically significant association was found between having children and the ability to adjust work hours.
+* No statistically significant association was found between having children and the ability to adjust work hours.
 
-*Talent Levels: The Mann-Whitney test suggested insufficient evidence for a significant difference in talent levels between married and unmarried women police officers.
+* Talent Levels: The Mann-Whitney test suggested insufficient evidence for a significant difference in talent levels between married and unmarried women police officers.
 
-*Job Nature and Education: The Kruskal-Wallis test indicated strong statistical evidence supporting a difference in the distribution of job nature across different education qualification groups.
+* Job Nature and Education: The Kruskal-Wallis test indicated strong statistical evidence supporting a difference in the distribution of job nature across different education qualification groups.
 
-*Influencing Factors: Regression analysis identified various factors influencing the utilization of women's talent, such as job assignments, access to support systems, and wellness programs.
+* Influencing Factors: Regression analysis identified various factors influencing the utilization of women's talent, such as job assignments, access to support systems, and wellness programs.
 
-*Model Accuracy: Naive Bayes classifier achieved an accuracy of 85.71% and the Ada Boosting model achieved approximately 96.77% accuracy on test data, indicating proficient classification performance.
+* Model Accuracy: Naive Bayes classifier achieved an accuracy of 85.71% and the Ada Boosting model achieved approximately 96.77% accuracy on test data, indicating proficient classification performance.
 
 Thank you. 
 
